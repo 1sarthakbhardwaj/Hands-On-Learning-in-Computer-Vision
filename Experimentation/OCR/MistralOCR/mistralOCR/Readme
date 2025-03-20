@@ -1,0 +1,11 @@
+# MistralOCR Data and Results
+
+This folder contains all the data and results used in the article related to Optical Character Recognition (OCR) experiments conducted with the MistralOCR model , Gemini, Claude. The contents are organized based on specific evaluation criteria and include:
+
+- **doc-unscanned**:  contain unscanned doc with models response
+- **foreign-lang-doc**: contain spanish doc with models response
+- **handwritten-doc**: contain handwritten doc with models response
+- **sci-paper-doc**: contain scientific paper with models response
+
+
+using app.py is mistralOCR GUI that can be used using API.
