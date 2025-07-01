@@ -94,7 +94,7 @@ pandas==2.3.0
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 parso @ file:///croot/parso_1733963305961/work
 pexpect @ file:///croot/pexpect_1750072593878/work
-pillow==11.2.1
+pillow==11.3.0
 platformdirs @ file:///croot/platformdirs_1744273042065/work
 prometheus_client @ file:///croot/prometheus_client_1744271615306/work
 prompt-toolkit @ file:///croot/prompt-toolkit_1704404351921/work
