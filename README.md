@@ -107,12 +107,21 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 | **FairMOT**    | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/Model%20Notebooks/FairMOT/README.md) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/implementing-fairmot-tutorial/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=64Ncymcfpsk) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/tree/main/Model%20Notebooks/FairMOT) [![arXiv](https://img.shields.io/badge/arXiv-2004.01888-b31b1b.svg)](https://arxiv.org/abs/2004.01888)|
 | **StrongSORT** | - | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/objects-tracking-using-strongsort/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=hviocgahbpc) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dyhBUPT/StrongSORT) [![arXiv](https://img.shields.io/badge/arXiv-2202.13514-b31b1b.svg)](https://arxiv.org/abs/2202.13514) |
 
+
+
 ### 4. Other Vision Tasks
 
 | **Model**       | **Jupyter Notebook** | **Complementary** | **Repository / Paper** |
 |:----------------|:--------------------:|:-----------------:|:----------------------:|
 | **Mistral OCR** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/Model%20Notebooks/Mistral/mistralOCR/mistralOCR.ipynb) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/mistralocr-did-it-do-what-it-claim/) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/tree/main/Model%20Notebooks/Mistral/mistralOCR) |
 | **Matching Anything by Segmenting Anything** | - | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/matching-anything-by-segment-anything/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=HBk_hkP6k-I) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/siyuanliii/masa) [![arXiv](https://img.shields.io/badge/arXiv-2406.04221-b31b1b.svg)](https://arxiv.org/abs/2406.04221) |
+
+
+### 5. Fine-Tune YOLO for Various Use Cases
+
+| **Use Case**       | **Jupyter Notebook** | **Complementary** |
+|:----------------|:--------------------:|:-----------------:|
+| **Fine-Tune YOLO for PPE Detection** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](<LINK>) |  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](<LINK>)
 
 ---
 
