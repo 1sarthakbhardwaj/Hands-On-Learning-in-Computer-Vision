@@ -121,7 +121,7 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 
 | **Use Case**       | **Jupyter Notebook** | **Complementary** |
 |:----------------|:--------------------:|:-----------------:|
-| **Fine-Tune YOLO for PPE Detection** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](<LINK>) |  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](<LINK>)
+| **Fine-Tune YOLO for PPE Detection** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/fine-tune%20YOLO%20for%20various%20use%20cases/fine-tune-yolo-PPE-detection.ipynb) |  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](<LINK>)
 
 ---
 
