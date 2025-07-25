@@ -128,5 +128,3 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 ## 💻 run locally
 
 We try to make it as easy as possible to run Labellerr Notebooks in Colab and Kaggle, but if you still want to run them locally, below you will find instructions on how to do it. Remember don't install your dependencies globally, use [venv](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
-
-
