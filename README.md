@@ -75,9 +75,7 @@ This repository, **Labellerr Notebooks**, offers a growing collection of latest 
 
 Here you'll find a curated collection of notebooks for state-of-the-art computer vision models, categorized by their primary task.
 
----
 ## *Fine-Tune YOLO for Various Use Cases*
----
 
 | **Use Case**       | **Jupyter Notebook** |  **YouTube** *(Click to view)* |
 |:----------------|:--------------------:|:-----------:|
@@ -91,9 +89,7 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 | **Using YOLO for 3D Cuboid Detection** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/fine-tune%20YOLO%20for%20various%20use%20cases/Using-YOLO-for-3D-Cuboid_detection.ipynb) | [![YouTube Thumbnail](https://img.youtube.com/vi/fsYoIE9Txmc/mqdefault.jpg)](https://www.youtube.com/watch?v=fsYoIE9Txmc&list=PLNxw1dU6gZmj7HdqcnHl72yQbcajqJtQy&index=3) |
 | **Fine-Tune YOLO for Traffic Flow Counting** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/fine-tune%20YOLO%20for%20various%20use%20cases/Fine-Tune-YOLO-for-Traffic-Flow-Counting.ipynb) | [![YouTube Thumbnail](https://img.youtube.com/vi/L9RNTGcFbUg/mqdefault.jpg)](https://www.youtube.com/watch?v=L9RNTGcFbUg&list=PLNxw1dU6gZmj7HdqcnHl72yQbcajqJtQy&index=2) |
 
----
 ## *Object Detection*
----
 
 | **Model**            | **Jupyter Notebook** | **Complementary** | **Repository / Paper** |
 |:---------------------|:--------------------:|:-----------------:|:----------------------:|
@@ -104,9 +100,7 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 | **Florence 2**       | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/Model%20Notebooks/Florence2/florence2_inference_notebook.ipynb) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/how-to-perform-various-tasks-using-florence-2/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=L9ae7cvJ7Ow) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/tree/main/Model%20Notebooks/Florence2) [![arXiv](https://img.shields.io/badge/arXiv-2311.06242-b31b1b.svg)](https://arxiv.org/abs/2311.06242) |
 | **OWL v2**           | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/Model%20Notebooks/OWL/OWLv2/OWLv2.ipynb) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/how-to-perform-various-task-using-owl-v2/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=O9QX8W9xXJY) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/tree/main/Model%20Notebooks/OWL/OWLv2) [![arXiv](https://img.shields.io/badge/arXiv-2306.09683-b31b1b.svg)](https://arxiv.org/abs/2306.09683)|
 
----
 ## *Object Segmentation*
----
 
 | **Model**                | **Jupyter Notebook** | **Complementary** | **Repository / Paper** |
 |:-------------------------|:--------------------:|:-----------------:|:----------------------:|
@@ -117,9 +111,7 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 | **SegGPT**               | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/Model%20Notebooks/SegGPT/segGPT_notebook.ipynb) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/seggpt-demo-code-next-gen-segmentation-is-here/) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/tree/main/Model%20Notebooks/SegGPT) [![arXiv](https://img.shields.io/badge/arXiv-2304.03284-b31b1b.svg)](https://arxiv.org/abs/2304.03284) |
 | **Florence 2**           | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/Model%20Notebooks/Florence2/florence2_inference_notebook.ipynb) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/how-to-perform-various-tasks-using-florence-2/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=L9ae7cvJ7Ow) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/tree/main/Model%20Notebooks/Florence2) [![arXiv](https://img.shields.io/badge/arXiv-2311.06242-b31b1b.svg)](https://arxiv.org/abs/2311.06242) |
 
----
-## *Object Tracking*
----
+## *Tracking Algorithms*
 
 | **Model**      | **Jupyter Notebook** | **Complementary** | **Repository / Paper** |
 |:---------------|:--------------------:|:-----------------:|:----------------------:|
@@ -129,18 +121,13 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 | **FairMOT**    | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/Model%20Notebooks/FairMOT/README.md) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/implementing-fairmot-tutorial/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=64Ncymcfpsk) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/tree/main/Model%20Notebooks/FairMOT) [![arXiv](https://img.shields.io/badge/arXiv-2004.01888-b31b1b.svg)](https://arxiv.org/abs/2004.01888)|
 | **StrongSORT** | - | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/objects-tracking-using-strongsort/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=hviocgahbpc) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dyhBUPT/StrongSORT) [![arXiv](https://img.shields.io/badge/arXiv-2202.13514-b31b1b.svg)](https://arxiv.org/abs/2202.13514) |
 
----
 ## *Other Vision Tasks*
----
 
 | **Model**       | **Jupyter Notebook** | **Complementary** | **Repository / Paper** |
 |:----------------|:--------------------:|:-----------------:|:----------------------:|
 | **Mistral OCR** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/Model%20Notebooks/Mistral/mistralOCR/mistralOCR.ipynb) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/mistralocr-did-it-do-what-it-claim/) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/tree/main/Model%20Notebooks/Mistral/mistralOCR) |
 | **Matching Anything by Segmenting Anything** | - | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/matching-anything-by-segment-anything/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=HBk_hkP6k-I) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/siyuanliii/masa) [![arXiv](https://img.shields.io/badge/arXiv-2406.04221-b31b1b.svg)](https://arxiv.org/abs/2406.04221) |
 
-
-
----
 
 ## 💻 *run locally*
 
