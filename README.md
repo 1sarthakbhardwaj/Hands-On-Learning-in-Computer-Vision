@@ -10,7 +10,7 @@
   </p>
   <!-- <br>
 
-  [Website](https://www.labellerr.com/) | [SDK](https://docs.labellerr.com/labellerr/labellerr-sdk/overview-and-getting-started) | [Blog](https://www.labellerr.com/blog/) | [Contact Us](https://www.labellerr.com/book-a-demo)
+  [Website](https://www.labellerr.com/) | [SDK](https://docs.labellerr.com/labellerr/documentation-labellerr/sdk/sdk-documentation) | [Blog](https://www.labellerr.com/blog/) | [Contact Us](https://www.labellerr.com/book-a-demo)
 
   <!-- <br> -->
 
@@ -39,7 +39,7 @@
           />
       </a>
       <img src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/blank.png" width="3%"/>
-      <a href="https://labellerrknowbase.notion.site/Help-Center-540ab5ca6c2e4d7cb476fe4651356bf1">
+      <a href="https://docs.labellerr.com/">
           <img
             src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/readthedocs.svg"
             width="4%"
