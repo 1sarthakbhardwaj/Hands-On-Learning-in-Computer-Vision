@@ -8,56 +8,51 @@
       >
     </a>
   </p>
-  <!-- <br>
-
-  [Website](https://www.labellerr.com/) | [SDK](https://docs.labellerr.com/labellerr/documentation-labellerr/sdk/sdk-documentation) | [Blog](https://www.labellerr.com/blog/) | [Contact Us](https://www.labellerr.com/book-a-demo)
-
-  <!-- <br> -->
 
   <div align="center">
       <a href="https://www.youtube.com/@Labellerr">
           <img
-            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/youtube.svg"
-            width="4%"
+            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20GitHub%20Readme%20Assets/youtube.svg"
+            width="5%"
             alt="YouTube"
           />
       </a>
       <img src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/blank.png" width="3%"/>
       <a href="https://www.labellerr.com/">
           <img
-            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/labellerr.svg"
-            width="4%"
+            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20GitHub%20Readme%20Assets/Logo2.svg"
+            width="5%"
             alt="Labellerr App"
           />
       </a>
       <img src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/blank.png" width="3%"/>
       <a href="https://in.linkedin.com/company/labellerr">
           <img
-            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/linkedin.svg"
-            width="4%"
+            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20GitHub%20Readme%20Assets/linkedin.svg"
+            width="5%"
             alt="LinkedIn"
           />
       </a>
       <img src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/blank.png" width="3%"/>
       <a href="https://docs.labellerr.com/">
           <img
-            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/readthedocs.svg"
-            width="4%"
+            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20GitHub%20Readme%20Assets/SDK.svg"
+            width="5%"
             alt="Documentation"
           />
       </a>
       <img src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/blank.png" width="3%"/>
       <a href="https://twitter.com/Labellerr1/status/1917643866460561520">
           <img
-            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/twutter.svg"
-            width="4%"
+            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20GitHub%20Readme%20Assets/twitter.svg"
+            width="6%"
             alt="Twitter"
           />
       <img src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/blank.png" width="3%"/>
       <a href="https://www.labellerr.com/blog/">
           <img
-            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/doc.svg"
-            width="4%"
+            src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20GitHub%20Readme%20Assets/blog.svg"
+            width="5%"
             alt="Blog"
           />
       </a>
@@ -87,6 +82,7 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 | **Fine-Tune YOLO for Automated Product Counting** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/fine-tune%20YOLO%20for%20various%20use%20cases/Fine-Tune-YOLO-Production-Line-Counting.ipynb.ipynb) | [![YouTube Thumbnail](https://img.youtube.com/vi/fFjIkRte5R8/mqdefault.jpg)](https://www.youtube.com/watch?v=fFjIkRte5R8&list=PLNxw1dU6gZmj7HdqcnHl72yQbcajqJtQy&index=4) |
 | **Using YOLO for 3D Cuboid Detection** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/fine-tune%20YOLO%20for%20various%20use%20cases/Using-YOLO-for-3D-Cuboid_detection.ipynb) | [![YouTube Thumbnail](https://img.youtube.com/vi/fsYoIE9Txmc/mqdefault.jpg)](https://www.youtube.com/watch?v=fsYoIE9Txmc&list=PLNxw1dU6gZmj7HdqcnHl72yQbcajqJtQy&index=3) |
 | **Fine-Tune YOLO for Traffic Flow Counting** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/fine-tune%20YOLO%20for%20various%20use%20cases/Fine-Tune-YOLO-for-Traffic-Flow-Counting.ipynb) | [![YouTube Thumbnail](https://img.youtube.com/vi/L9RNTGcFbUg/mqdefault.jpg)](https://www.youtube.com/watch?v=L9RNTGcFbUg&list=PLNxw1dU6gZmj7HdqcnHl72yQbcajqJtQy&index=2) |
+| **Fine-Tune YOLO for Threat Detection** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/fine-tune%20YOLO%20for%20various%20use%20cases/Fine-Tune-YOLO-for-Threat-Detection.ipynb) | [![YouTube Thumbnail](https://img.youtube.com/vi/0cB7X1CffTw/mqdefault.jpg)](https://youtu.be/0cB7X1CffTw?si=GzF8H1_NMNuc1owU) |
 
 ## *Object Detection*
 
@@ -127,7 +123,6 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 |:----------------|:--------------------:|:-----------------:|:----------------------:|
 | **Mistral OCR** | [![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/blob/main/Model%20Notebooks/Mistral/mistralOCR/mistralOCR.ipynb) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/mistralocr-did-it-do-what-it-claim/) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision/tree/main/Model%20Notebooks/Mistral/mistralOCR) |
 | **Matching Anything by Segmenting Anything** | ![Jupyter](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/jupyter-logo.svg) | [![Blog](https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/LABELLERR-LOGO.svg)](https://www.labellerr.com/blog/matching-anything-by-segment-anything/) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=HBk_hkP6k-I) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/siyuanliii/masa) [![arXiv](https://img.shields.io/badge/arXiv-2406.04221-b31b1b.svg)](https://arxiv.org/abs/2406.04221) |
-
 
 ## 💻 *run locally*
 
