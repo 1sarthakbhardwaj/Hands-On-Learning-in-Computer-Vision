@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Youtube-Analytics-AI-Agent"
+version = "0.1.0"
+description = "A project to track YouTube video statistics, generate analysis with Google Gemini, and send email reports."
+requires-python = ">=3.8"
+dependencies = [
+    "google-generativeai",
+    "python-dotenv",
+    "google-api-python-client",
+]
+authors = [
+    { name = "YashSuman", email = "yashsuman15@gmail.com" }
+]
+
+
