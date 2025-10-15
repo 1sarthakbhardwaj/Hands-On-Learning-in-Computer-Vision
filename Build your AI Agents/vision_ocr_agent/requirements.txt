@@ -1,0 +1,7 @@
+crewai 
+crewai-tools 
+python-dotenv 
+mistralai 
+pillow 
+requests
+google-generativeai
